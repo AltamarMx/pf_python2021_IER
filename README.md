@@ -13,14 +13,24 @@ a = pf.analisis()
 a.importa('archivo.csv')
 ```
 
-La clase debe realizar cuatro acciones principalmente:
-
-1. Una gr'afica de boxplot, tomen como guía la siguiente figura:
-![Boxplot](img/boxplot.png)
-
+La clase debe realizar cuatro acciones explíticas, es decir
+```
+a.boxplot()
+```
+y así, según se requiera.
 
 
 ___
+1. Una gr'afica de boxplot, tomen como guía la siguiente figura:
+![Boxplot](img/boxplot.png)
+
+ Para cada mes se deben graficar el boxplot correspondiente
+ al mes. El boxplot debe visualizar
+ el promedio de la variable seleccionada en lugar de la mediana.
+
+
+
+___  
 
 
 
@@ -34,6 +44,7 @@ __
 3. Un gráfica donde se presente el valor de la variable promediada cada paso
 temporal, tomen como referencia la imagen:
 ![promedio horario](img/promedio_horario.png)
+
 
 
 

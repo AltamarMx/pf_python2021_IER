@@ -123,26 +123,21 @@ La calificaci'on est'a compuesta de
 |Clase en un archivo .py          | 10 |
 |Documentaci'on por m'etodo final | 20 |
 |Estructura de proyecto adecuada  | 10 |
-
  | Gr'afica 1 |  Puntos |
- |-------------|--------:|
  |Boxplot por mes           | 20 |
  |Uso de mean en el boxplot |  5 |
  |Selecci'on de variables   | 10 |
  | Formato de la figura(unidades,etc) | 10 |
   | Gr'afica 2 |  Puntos |
-  |-------------|--------:|
   |Rosa de viento por estaci'on    | 20 |
   |Rosa de viento por meses        | 10 |
   |Selecci'on de dia completo, diurno, nocturno   | 10 |
   | Formato de la figura(unidades,etc) | 10 |
   | Gr'afica 3 |  Puntos |
-  |-------------|--------:|
   |Grafica de promedio por paso temporal  por variable   | 15 |
   |Uso de fillbetween  por variable          | 10 |
   |Selecci'on de std, max, min para el fillbetween   | 10 |
   | Formato de la figura por variable (unidades,etc) | 10 |
   | Gr'afica 4 |  Puntos |
-  |-------------|--------:|
   |Grafica de heatmap anual horario  por variable   | 20 |
   | Formato de la figura por variable (unidades,etc) | 10 |

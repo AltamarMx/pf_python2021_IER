@@ -22,7 +22,7 @@ y así, según se requiera.
 Puntos:
 | Descripción |  Puntos |
 |-------------|--------:|
-|Clase en un archivo .pu          | 10 |
+|Clase en un archivo .py          | 10 |
 |Documentaci'on por m'etodo final | 20 |
 |Estructura de proyecto adecuada  | 10 |
 
@@ -38,6 +38,12 @@ ___
  el promedio de la variable seleccionada en lugar de la mediana.
  El método debe permitir seleccionar las variables a graficar, cada
  variable debe tener su propio eje y con su escala.
+
+ | Descripción |  Puntos |
+ |-------------|--------:|
+ |Boxplot por mes           | 20 |
+ |Uso de mean en el boxplot |  5 |
+ |Selecci'on de variables   | 10 |
 
 
 

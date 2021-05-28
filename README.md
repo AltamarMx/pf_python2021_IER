@@ -19,14 +19,25 @@ La clase debe realizar cuatro acciones principalmente:
 ![Boxplot](img/boxplot.png)
 
 
+
+___
+
+
+
 2. Una rosa de vientos, tomen como guía la siguiente figura:
 ![Rosa de viento](img/rosa_vientos.png)
+
+
+__
 
 
 3. Un gráfica donde se presente el valor de la variable promediada cada paso
 temporal, tomen como referencia la imagen:
 ![promedio horario](img/promedio_horario.png)
 
+
+
+___
 4. Un  __heatmap__ de la **variable** seleccionada para las horas
 y los d'ias , toma como referencia la siguiente imagen:
 

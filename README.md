@@ -10,5 +10,10 @@ import proyecto as pf
 
 a = pf.analisis()
 
-a.importa('archivo.cxv')
+a.importa('archivo.csv')
 ```
+
+La clase debe realizar cuatro acciones principalmente:
+
+1. Una gr'afica de boxplot, tomen como guía la siguiente figura:
+![Boxplot](img/boxplot.png)

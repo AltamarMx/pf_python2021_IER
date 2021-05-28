@@ -27,6 +27,8 @@ ___
  Para cada mes se deben graficar el boxplot correspondiente
  al mes. El boxplot debe visualizar
  el promedio de la variable seleccionada en lugar de la mediana.
+ El método debe permitir seleccionar las variables a graficar, cada
+ variable debe tener su propio eje y con su escala.
 
 
 
@@ -37,6 +39,7 @@ ___
 2. Una rosa de vientos, tomen como guía la siguiente figura:
 ![Rosa de viento](img/rosa_vientos.png)
 
+Utilizando [Python-windrose](https://github.com/python-windrose/windrose)
 
 __
 

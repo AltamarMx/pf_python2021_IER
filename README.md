@@ -25,9 +25,9 @@ La clase debe realizar cuatro acciones principalmente:
 
 3. Un gráfica donde se presente el valor de la variable promediada cada paso
 temporal, tomen como referencia la imagen:
-![Rosa de viento](img/promedio_horario.png)
+![promedio horario](img/promedio_horario.png)
 
 4. Un  __heatmap__ de la **variable** seleccionada para las horas
 y los d'ias , toma como referencia la siguiente imagen:
 
-![Rosa de viento](img/heatmap.png) 
+![heatmap](img/heatmap.png)

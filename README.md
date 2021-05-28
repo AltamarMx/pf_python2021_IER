@@ -23,8 +23,10 @@ Puntos:
 | Descripción |  Puntos |
 |-------------|--------:|
 |Clase en un archivo .pu          | 10 |
-|Docuemntaci'on por m'etodo final | 20 |
- 
+|Documentaci'on por m'etodo final | 20 |
+|Estructura de proyecto adecuada  | 10 |
+
+
 
 
 ___

@@ -20,4 +20,4 @@ La clase debe realizar cuatro acciones principalmente:
 
 
 2. Una rosa de vientos, tomen como guía la siguiente figura:
-![Rosa de viento](img/rosa_viento.png)
+![Rosa de viento](img/rosa_vientos.png)

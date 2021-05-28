@@ -9,6 +9,6 @@ Se debe programar una clase que haga lo siguiente:
 import proyecto as pf
 
 a = pf.analisis()
-```
 
-1.
+a.importa('archivo.cxv')
+```

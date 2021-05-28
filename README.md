@@ -141,3 +141,4 @@ La calificaci'on est'a compuesta de
   | Gr'afica 4 |  Puntos |
   |Grafica de heatmap anual horario  por variable   | 20 |
   | Formato de la figura por variable (unidades,etc) | 10 |
+  | Puntos totales  | 210 |

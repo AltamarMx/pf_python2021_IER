@@ -19,6 +19,11 @@ a.boxplot()
 ```
 y así, según se requiera.
 
+Puntos:
+| Descripción |  Puntos |
+|-------------|--------:|
+|Documentado en una clase en un archivo .py | 10 |
+
 
 ___
 1. Una gr'afica de boxplot, tomen como guía la siguiente figura:

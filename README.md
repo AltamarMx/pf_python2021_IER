@@ -46,7 +46,7 @@ crear una rosa de vientos donde permita definir la estación (primavera,
   Además, el método debe permitir seleccionar si la rosa de viento mostrada
   corresponde a todo el día (0 a 23 horas) o solo diurno (8 a 20 horas) y
   nocturno (20:01  a 7:59 horas).
-  
+
 
 __
 

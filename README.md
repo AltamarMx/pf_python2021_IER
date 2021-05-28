@@ -48,6 +48,7 @@ crear una rosa de vientos donde permita definir la estación (primavera,
   nocturno (20:01  a 7:59 horas).
 
 
+
 __
 
 
@@ -68,3 +69,7 @@ ___
 y los d'ias , toma como referencia la siguiente imagen:
 
 ![heatmap](img/heatmap.png)
+
+Se debe poder seleccionar la variable a visualizar, y el valor a calcular
+por variable debe ser el valor m'aximo, el valor m'inimo, el promedio,
+y la desviaci'on est'andard de la variable.

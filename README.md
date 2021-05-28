@@ -60,7 +60,7 @@ sombra (fill between) se debe poder seleccionar entre: desviación estándard,
 promedio del valor máximo o mínimo, y el valor máximo de ese paso temporal.
 
 También se debe poder seleccionar si se desea una gráfica anual o de un mes
-específico. 
+específico.
 
 
 ___

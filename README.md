@@ -22,7 +22,9 @@ y así, según se requiera.
 Puntos:
 | Descripción |  Puntos |
 |-------------|--------:|
-|Documentado en una clase en un archivo .py | 10 |
+|Clase en un archivo .pu          | 10 |
+|Docuemntaci'on por m'etodo final | 20 |
+ 
 
 
 ___

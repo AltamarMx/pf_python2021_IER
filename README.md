@@ -44,6 +44,7 @@ ___
  |Boxplot por mes           | 20 |
  |Uso de mean en el boxplot |  5 |
  |Selecci'on de variables   | 10 |
+ | Formato de la figura(unidades,etc) | 10 |
 
 
 
@@ -62,6 +63,12 @@ crear una rosa de vientos donde permita definir la estación (primavera,
   corresponde a todo el día (0 a 23 horas) o solo diurno (8 a 20 horas) y
   nocturno (20:01  a 7:59 horas).
 
+  | Descripción |  Puntos |
+  |-------------|--------:|
+  |Rosa de viento por estaci'on    | 20 |
+  |Rosa de viento por meses        | 10 |
+  |Selecci'on de dia completo, diurno, nocturno   | 10 |
+  | Formato de la figura(unidades,etc) | 10 |
 
 
 __
@@ -78,6 +85,13 @@ promedio del valor máximo o mínimo, y el valor máximo de ese paso temporal.
 También se debe poder seleccionar si se desea una gráfica anual o de un mes
 específico.
 
+  | Descripción |  Puntos |
+  |-------------|--------:|
+  |Grafica de promedio por paso temporal  por variable   | 15 |
+  |Uso de fillbetween  por variable          | 10 |
+  |Selecci'on de std, max, min para el fillbetween   | 10 |
+  | Formato de la figura por variable (unidades,etc) | 10 |
+
 
 ___
 4. Un  __heatmap__ de la **variable** seleccionada para las horas
@@ -88,3 +102,10 @@ y los d'ias , toma como referencia la siguiente imagen:
 Se debe poder seleccionar la variable a visualizar, y el valor a calcular
 por variable debe ser el valor m'aximo, el valor m'inimo, el promedio,
 y la desviaci'on est'andard de la variable.
+
+
+
+  | Descripción |  Puntos |
+  |-------------|--------:|
+  |Grafica de heatmap anual horario  por variable   | 20 |
+  | Formato de la figura por variable (unidades,etc) | 10 |

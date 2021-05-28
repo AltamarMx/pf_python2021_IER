@@ -40,6 +40,13 @@ ___
 ![Rosa de viento](img/rosa_vientos.png)
 
 Utilizando [Python-windrose](https://github.com/python-windrose/windrose)
+crear una rosa de vientos donde permita definir la estación (primavera,
+  verano, otoño, invierno) y grafique los meses que incluyen esa estación
+  como se esquematiza en la figura.
+  Además, el método debe permitir seleccionar si la rosa de viento mostrada
+  corresponde a todo el día (0 a 23 horas) o solo diurno (8 a 20 horas) y
+  nocturno (20:01  a 7:59 horas).
+  
 
 __
 

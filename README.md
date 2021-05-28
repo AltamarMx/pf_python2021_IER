@@ -5,10 +5,10 @@ del centro de Mx.
 
 Se debe programar una clase que haga lo siguiente:
 
-'''
+```
 import proyecto as pf
 
 a = pf.analisis()
-'''
+```
 
-1. 
+1.

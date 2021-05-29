@@ -85,7 +85,7 @@ Crear una rosa de vientos donde permita definir la estación (primavera,
 
 
 
-__
+___
 
 
 3. Un gráfica donde se presente el valor de la variable promediada cada paso
@@ -114,6 +114,8 @@ si se seleccion'o promedio, valor promedio m'aximo, m'inimo o solo el m'aximo/m'
 
 
 ___
+
+
 4. Un  __heatmap__ de la **variable** seleccionada para las horas
 y los d'ias , toma como referencia la siguiente imagen:
 

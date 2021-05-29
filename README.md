@@ -119,7 +119,7 @@ ___
 4. Un  __heatmap__ de la **variable** seleccionada para las horas
 y los d'ias , toma como referencia la siguiente imagen:
 
-![heatmap](img/heatmap.png)
+![heatmap](img/heatmap.jpeg)
 
 Se debe poder seleccionar la variable a visualizar, y el valor a calcular
 por variable debe ser el valor m'aximo, el valor m'inimo, el promedio,

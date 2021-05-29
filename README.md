@@ -106,7 +106,7 @@ si se seleccion'o promedio, valor promedio m'aximo, m'inimo o solo el m'aximo/m'
   |-------------|--------:|
   |Grafica de promedio por paso temporal  por variable   | 15 |
   |Uso de fillbetween  por variable          | 10 |
-  |Selecci'on de std, max, min para el fillbetween   | 10 |
+  |Selecci'on de std, max, min para la zona sombreada   | 20 |
   | Formato de la figura por variable (unidades,etc) | 10 |
   | Guardar imagen con descripci'on                  | 10 |
 
@@ -163,11 +163,11 @@ La calificaci'on est'a compuesta de
   | Gr'afica 3 |  Puntos |
   |Grafica de promedio por paso temporal  por variable   | 15 |
   |Uso de fillbetween  por variable          | 10 |
-  |Selecci'on de std, max, min para el fillbetween   | 10 |
+  |Selecci'on de a) std, b) promedio(max, min), c) max y min para la zona sombreada   | 20 |
   | Formato de la figura por variable (unidades,etc) | 10 |
   | Guardar imagen con descripci'on                  | 10 |
   | Gr'afica 4 |  Puntos |
   |Grafica de heatmap anual horario  por variable   | 20 |
   | Formato de la figura por variable (unidades,etc) | 10 |
   | Guardar imagen con descripci'on                  | 10 |
-  | **Puntos totales**  | **250** |
+  | **Puntos totales**  | **260** |

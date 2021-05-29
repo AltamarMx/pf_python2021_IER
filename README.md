@@ -105,7 +105,7 @@ si se seleccion'o promedio, valor promedio m'aximo, m'inimo o solo el m'aximo/m'
   | Descripción |  Puntos |
   |-------------|--------:|
   |Grafica de promedio por paso temporal  por variable   | 15 |
-  |Uso de fillbetween  por variable          | 10 |
+  |Uso sombreado    por variable          | 10 |
   |Selecci'on de a) std, b) promedio(max, min), c) max y min para la zona sombreada   | 20 |
   | Formato de la figura por variable (unidades,etc) | 10 |
   | Guardar imagen con descripci'on                  | 10 |

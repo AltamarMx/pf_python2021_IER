@@ -92,9 +92,8 @@ ___
 temporal, tomen como referencia la imagen:
 ![promedio horario](img/promedio_horario.png)
 
-El m'etodo debe permitir seleccionar la variable a graficar, y en
-sombra se debe poder seleccionar entre: desviación estándard,
-promedio del valor máximo o mínimo, y el valor máximo de ese paso temporal.
+El m'etodo debe permitir seleccionar la variable a graficar,
+los limites superiores e inferiores  de la zona sombreada deben indicar : a) la desviaci’on est’andard, b) el promedio de los m’aximo y m’inimos, y c) el valor m’aximo y m’inimo, todos de cada paso temporal.
 
 También se debe poder seleccionar si se desea una gráfica anual o de un mes
 específico.

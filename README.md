@@ -17,15 +17,18 @@ La clase debe realizar cuatro acciones explíticas, es decir
 ```
 a.boxplot()
 ```
-y así, según se requiera.
+
+al ejecutar el m'etodo correspondiente, debe guardar en
+el folder resultados/ un png de la figura obtenida, con
+especificaciones para cada m'etodo/figura.
 
 Puntos:
 | Descripción |  Puntos |
 |-------------|--------:|
 |Clase en un archivo .py          | 10 |
 |Documentaci'on por m'etodo final | 20 |
-|Estructura de proyecto adecuada  | 10 |
-
+|Estructura de proyecto adecuada  | 15 |
+|
 
 
 
@@ -39,13 +42,17 @@ ___
  El método debe permitir seleccionar las variables a graficar, cada
  variable debe tener su propio eje y con su escala.
 
+ Al realizar la gr'afica, debe guardar en la carpeta resultados/
+ el archivo png con un nombre que le permita distinguir el mes y
+ la variable seleccionada.
+
  | Descripción |  Puntos |
  |-------------|--------:|
  |Boxplot por mes           | 20 |
  |Uso de mean en el boxplot |  5 |
  |Selecci'on de variables   | 10 |
  | Formato de la figura(unidades,etc) | 10 |
-
+ | Guardar imagen con descripci'on | 10 |
 
 
 ___  
@@ -55,13 +62,18 @@ ___
 2. Una rosa de vientos, tomen como guía la siguiente figura:
 ![Rosa de viento](img/rosa_vientos.png)
 
-Utilizando [Python-windrose](https://github.com/python-windrose/windrose)
-crear una rosa de vientos donde permita definir la estación (primavera,
+Crear una rosa de vientos donde permita definir la estación (primavera,
   verano, otoño, invierno) y grafique los meses que incluyen esa estación
   como se esquematiza en la figura.
   Además, el método debe permitir seleccionar si la rosa de viento mostrada
   corresponde a todo el día (0 a 23 horas) o solo diurno (8 a 20 horas) y
   nocturno (20:01  a 7:59 horas).
+
+  Al realizar la gr'afica, debe guardar en la carpeta resultados/
+  el archivo png con un nombre que le permita distinguir la estaci'on y
+  el periodo seleccionado.
+
+
 
   | Descripción |  Puntos |
   |-------------|--------:|
@@ -69,6 +81,8 @@ crear una rosa de vientos donde permita definir la estación (primavera,
   |Rosa de viento por meses        | 10 |
   |Selecci'on de dia completo, diurno, nocturno   | 10 |
   | Formato de la figura(unidades,etc) | 10 |
+  | Guardar imagen con descripci'on    | 10 |
+
 
 
 __
@@ -79,11 +93,16 @@ temporal, tomen como referencia la imagen:
 ![promedio horario](img/promedio_horario.png)
 
 El m'etodo debe permitir seleccionar la variable a graficar, y en
-sombra (fill between) se debe poder seleccionar entre: desviación estándard,
+sombra se debe poder seleccionar entre: desviación estándard,
 promedio del valor máximo o mínimo, y el valor máximo de ese paso temporal.
 
 También se debe poder seleccionar si se desea una gráfica anual o de un mes
 específico.
+
+
+Al realizar la gr'afica, debe guardar en la carpeta resultados/
+el archivo png con un nombre que le permita distinguir la variable promediada y
+si se seleccion'o promedio, valor promedio m'aximo, m'inimo o solo el m'aximo/m'inimo.
 
   | Descripción |  Puntos |
   |-------------|--------:|
@@ -91,6 +110,7 @@ específico.
   |Uso de fillbetween  por variable          | 10 |
   |Selecci'on de std, max, min para el fillbetween   | 10 |
   | Formato de la figura por variable (unidades,etc) | 10 |
+  | Guardar imagen con descripci'on                  | 10 |
 
 
 ___
@@ -104,11 +124,16 @@ por variable debe ser el valor m'aximo, el valor m'inimo, el promedio,
 y la desviaci'on est'andard de la variable.
 
 
+Al realizar la gr'afica, debe guardar en la carpeta resultados/
+el archivo png con un nombre que le permita distinguir la variable  y
+si se seleccion'o promedio, valor promedio m'aximo, m'inimo o solo el m'aximo/m'inimo.
+
 
   | Descripción |  Puntos |
   |-------------|--------:|
   |Grafica de heatmap anual horario  por variable   | 20 |
   | Formato de la figura por variable (unidades,etc) | 10 |
+  | Guardar imagen con descripci'on | 10 |
 
 
   ___

@@ -28,7 +28,6 @@ Puntos:
 |Clase en un archivo .py          | 10 |
 |Documentaci'on por m'etodo final | 20 |
 |Estructura de proyecto adecuada  | 15 |
-|
 
 
 

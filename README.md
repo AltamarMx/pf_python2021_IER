@@ -15,7 +15,14 @@ a.importa('archivo.csv')
 
 La clase debe realizar cuatro acciones explíticas, es decir
 ```
-a.boxplot()
+a.boxplot()  # genera ejercicio 1 descrito m'as adelante
+
+a.rosa_viento()  # genera ejercicio 2 descrito m'as adelante
+
+a.variable_dia()  # genera ejercicio 3 descrito m'as adelante
+
+
+a.heatmap_anual()  # genera ejercicio 4 descrito m'as adelante
 ```
 
 al ejecutar el m'etodo correspondiente, debe guardar en

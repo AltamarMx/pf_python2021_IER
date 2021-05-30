@@ -21,7 +21,6 @@ a.rosa_viento()  # genera ejercicio 2 descrito m'as adelante
 
 a.variable_dia()  # genera ejercicio 3 descrito m'as adelante
 
-
 a.heatmap_anual()  # genera ejercicio 4 descrito m'as adelante
 ```
 
